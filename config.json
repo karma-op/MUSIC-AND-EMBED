@@ -1,0 +1,23 @@
+{
+  "TOKEN": "ODY0NDI1NDA3MjgwMTg1Mzc0.YO1Q5Q.NgAkbNBJljNJIiBKcQzYhgA4cpo",
+  "PREFIX": "$",
+  "OWNERS": ["603969887202836512"],
+  "MONGODB_URI": "",
+  "SPOTIFY_CLIENT_ID": "78317459a7c74267bbf7f8db770b7423",
+  "SPOTIFY_CLIENT_SECRET": "5523194965a04fb3b9333cdbd2143b73",
+  "KSOFT_API_KEY": "",
+  "NODES": [
+    {
+      "HOST": "rajlava-1.mallareddyraja.repl.co",
+      "PASSWORD": "rajthepro",
+      "PORT": 443,
+      "IDENTIFIER": "KARMA",
+      "RETRY_AMOUNT": 3,
+      "RETRY_DELAY": 1000,
+      "SECURE": true
+    }
+  ],
+  "AUTO_RESUME_DELAY": 1500,
+  "DEBUG": true,
+  "LOG_USAGE": false
+}
